@@ -1,0 +1,12 @@
+.hi {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background-color: aliceblue;
+}
+h2 {
+  padding: 20px;
+}
+button {
+  padding: 5px 10px;
+}
