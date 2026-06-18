@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  padding: 10%;
+}
 ul,
 li {
   list-style: none;
@@ -10,4 +13,13 @@ li {
 a {
   color: #333;
   text-decoration: none;
+}
+input {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 1px solid #585858;
+  margin-right: 10px;
+}
+hr {
+  margin: 20px 0;
 }
